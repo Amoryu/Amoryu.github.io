@@ -8,7 +8,7 @@
   cd .vuepress/dist
 
 
-  git init
+  # git init
   git add -A
   git commit -m 'deploy'
 
@@ -18,6 +18,6 @@
   # 如果发布到 https://<USERNAME>.github.io/<REPO>
   # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master:gh-pages
   # 我的配置如下
-  git push -f git@github.com:Amoryu/Amoryu.github.io.git main:gh-pages
+  git push -f https://github.com/Amoryu/amoryu.github.io main:gh-pages
 
   cd -
