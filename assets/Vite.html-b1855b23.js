@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-abef375a","path":"/docs/frontend/Vite.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1699114989000,"updatedTime":1699114989000,"contributors":[{"name":"Amor yu","email":"2014377205@qq.com","commits":1}]},"filePathRelative":"docs/frontend/Vite.md"}');export{e as data};
